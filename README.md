@@ -35,8 +35,8 @@ It monitors Growtopia’s official files, app versions, and cache servers, then 
 ## 🚀 Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/xskriptx/growtopia-update-monitor.git
-cd growtopia-update-monitor
+git clone https://github.com/xSkriptx/Auto-Datamining-Growtopia.git
+cd Auto-Datamining-Growtopia
 
 # 2. Download packages
 pip install -r requirements.txt
