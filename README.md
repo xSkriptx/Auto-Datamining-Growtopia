@@ -40,6 +40,8 @@ cd Auto-Datamining-Growtopia
 
 # 2. Download packages
 pip install -r requirements.txt
+or
+py -3.12 -m pip install -r requirements.txt
 
 # 3. Run the script
 python growtopia_monitor.py
