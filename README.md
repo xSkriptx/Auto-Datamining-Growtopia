@@ -35,7 +35,7 @@ It monitors Growtopia’s official files, app versions, and cache servers, then 
 ## 🚀 Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/growtopia-update-monitor.git
+git clone https://github.com/xskriptx/growtopia-update-monitor.git
 cd growtopia-update-monitor
 
 # 2. Download packages
