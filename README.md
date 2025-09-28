@@ -33,7 +33,14 @@ It monitors Growtopia’s official files, app versions, and cache servers, then 
 - Discord bot token **or** webhook URL.
 
 ## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/growtopia-update-monitor.git
-   cd growtopia-update-monitor
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/growtopia-update-monitor.git
+cd growtopia-update-monitor
+
+# 2. Download packages
+pip install -r requirements.txt
+
+# 3. Run the script
+python growtopia_monitor.py
+
