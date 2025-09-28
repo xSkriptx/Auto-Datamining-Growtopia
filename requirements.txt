@@ -1,9 +1,8 @@
 aiohttp==3.9.3
-asyncio==3.4.3
 discord.py==2.3.2
 google-play-scraper==1.2.5
 requests==2.31.0
 tqdm==4.66.1
 Pillow==10.0.1
-
 pyinstaller>=6.0,<7.0
+
