@@ -1,6 +1,6 @@
 # Growtopia Update Monitor
 
-Growtopia Update Monitor is an **automatic update & data-mining tool** built with Python and Tkinter.  
+Growtopia Update Monitor is an **automatic update & data-mining tool** built with Python and Tkinter. It continues the **Bolwl Datamining Project**, providing an easy way to track and analyze Growtopia updates..  
 It monitors Growtopia’s official files, app versions, and cache servers, then notifies you via **Discord bot or webhook** when new updates are detected.  
 
 ## ✨ Features
